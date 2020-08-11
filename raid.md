@@ -15,6 +15,14 @@ Dersom du ikke er en av de 40 første - så vil du få 1/2 av DKPen man får for
 Signer du opp for raid og ikke møter opp, uten å gi beskjed. Mister du 1/2 av DKPen man vil tjene på raidet.  
 De som står som Tentativ/Late blir ikke regnet med når man tar ut raidet (dagen før). Om du kommer noen minutter for seint - gi beskjed til din class officer/raid leader at du kommer noen minutter forsinket og sign up som vanlig.  
 
+## Addons
+Minimum raid addons. Addons kan lastes ned via Twitch appen eller hos andre ressurser som willitclassic.com.  
+Det anbefales å laste ned addons gjennom Twitch appen slik at de enkelt kan holdes oppdatert.  
+\
+Alle:  
+Deadly boss mods https://www.curseforge.com/wow/addons/deadly-boss-mods  
+Details! med Tiny Threat (Tiny Threat skal alltid være på og tilgjengelig for hver spiller under raids) https://www.curseforge.com/wow/addons/details  
+
 ## Straff
 Ninja-pulls straffes nå med DKP.  
 Fucke opp mechanics straffes nå med DKP (EKS: Ikke gå ut av raidet med Baron bomba, Vael debuff).  
