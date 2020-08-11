@@ -20,15 +20,16 @@ Minimum raid addons. Addons kan lastes ned via Twitch appen eller hos andre ress
 Det anbefales å laste ned addons gjennom Twitch appen slik at de enkelt kan holdes oppdatert.  
 \
 Alle:  
-Deadly boss mods https://www.curseforge.com/wow/addons/deadly-boss-mods  
-Details! med Tiny Threat https://www.curseforge.com/wow/addons/details  
+DBM: https://www.curseforge.com/wow/addons/deadly-boss-mods  
+Details! med Tiny Threat: https://www.curseforge.com/wow/addons/details  
+Monolith DKP: https://www.curseforge.com/wow/addons/monolith-dkp
 \
 Healere:  
-Healcomm 4.0  
-ShowMeMyHeal: (Anbefales for å følge med på overheal)  
 \
+https://www.curseforge.com/wow/addons/libhealcomm-4-0
+\  
 Priests, Paladins, Mages og Druids:  
-Decursive  
+Decursive: https://www.curseforge.com/wow/addons/decursive  
 
 
 ## Straff
