@@ -6,7 +6,7 @@ Det vil da i noen tilfeller ta noe lengre tid å komme igang etter en wipe, men 
 ## Officers
 
 Mage: Nurion  
-Warlock: Littleguybigdik  
+Warlock: Lilguybigdik  
 Priest: Snodig  
 Warrior Fury: Yoyoangel  
 Warrior Tank: Solos  
@@ -15,5 +15,3 @@ Rogue: Poothepanda
 Paldin: Casteratedman  
 Druid: Elriela  
 Info-officer: Solos  
-Tulling: yoyo  
-etelleranna
