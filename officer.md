@@ -16,3 +16,4 @@ Paldin: Casteratedman
 Druid: Elriela  
 Info-officer: Solos  
 Tulling: yoyo
+etelleranna
