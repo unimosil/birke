@@ -12,6 +12,14 @@ Dersom du ikke er en av de 40 første - så vil du få 1/2 av DKPen man får for
 Signer du opp for raid og ikke møter opp, uten å gi beskjed. Mister du 1/2 av DKPen man vil tjene på raidet.  
 De som står som Tentativ/Late blir ikke regnet med når man tar ut raidet (dagen før). Om du kommer noen minutter for seint - gi beskjed til din class officer/raid leader at du kommer noen minutter forsinket og sign up som vanlig.  
 
+## Straff
+Ninja-pulls straffes nå med DKP.  
+Fucke opp mechanics straffes nå med DKP (EKS: Ikke gå ut av raidet med Baron bomba, Vael debuff).  
+Staff blir delt opp slik:  
+Om ingen eller kun du selv før -20 DKP.  
+Om noen andre dør av din dumhet -50 DKP.  
+Dere må gi beskjed dersom dere må gå AFK i raid, det er ditt ansvar å komme deg til en trygg plass.  
+
 ## AQ
 
 ## BWL
