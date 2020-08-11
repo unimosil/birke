@@ -14,4 +14,5 @@ Hunter: Dwarfshaman
 Rogue: Poothepanda  
 Paldin: Casteratedman  
 Druid: Elriela  
-Informasjonsofficer: Solos  
+Info-officer: Solos  
+Tulling: yoyo
