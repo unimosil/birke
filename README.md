@@ -10,6 +10,6 @@ test
 ### Signup
 test
 
-### DKP
+### DKP [link](dkp.md)
 test
 test
