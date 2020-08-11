@@ -3,7 +3,7 @@ Invites - 30 minutter før raid
 Oppmøte - 15 minutter før raid   
 
 ## Raidleader
-Guildens elskede radiostemme tilhørere Opee.  
+Guildens elskede radiostemme tilhører Opee.  
 
 ## Prioritet
 De som har signet opp får prioritet - Class leaders vil ta ut members dagen før raid.
