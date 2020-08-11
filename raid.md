@@ -21,7 +21,15 @@ Det anbefales å laste ned addons gjennom Twitch appen slik at de enkelt kan hol
 \
 Alle:  
 Deadly boss mods https://www.curseforge.com/wow/addons/deadly-boss-mods  
-Details! med Tiny Threat (Tiny Threat skal alltid være på og tilgjengelig for hver spiller under raids) https://www.curseforge.com/wow/addons/details  
+Details! med Tiny Threat https://www.curseforge.com/wow/addons/details  
+\
+Healere:  
+Healcomm 4.0  
+ShowMeMyHeal: (Anbefales for å følge med på overheal)  
+\
+Priests, Paladins, Mages og Druids:  
+Decursive  
+
 
 ## Straff
 Ninja-pulls straffes nå med DKP.  
