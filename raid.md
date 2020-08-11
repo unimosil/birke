@@ -24,9 +24,11 @@ DBM: https://www.curseforge.com/wow/addons/deadly-boss-mods
 Details! med Tiny Threat: https://www.curseforge.com/wow/addons/details  
 Monolith DKP: https://www.curseforge.com/wow/addons/monolith-dkp
 \
-Healere:  
-https://www.curseforge.com/wow/addons/libhealcomm-4-0
-\  
+\
+Healere: 
+Healcomm: https://www.curseforge.com/wow/addons/libhealcomm-4-0
+\
+\
 Priests, Paladins, Mages og Druids:  
 Decursive: https://www.curseforge.com/wow/addons/decursive  
 
