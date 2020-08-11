@@ -12,5 +12,5 @@ Warrior Fury: Yoyoangel
 Warrior Tank: Solos  
 Hunter: Dwarfshaman  
 Rogue: Poothepanda  
-Paldin: Fettleif  
+Paldin: Casteratedman  
 Druid: Elriela  
