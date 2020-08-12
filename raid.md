@@ -42,6 +42,7 @@ Om noen andre dør av din dumhet -50 DKP.
 Dere må gi beskjed dersom dere må gå AFK i raid, det er ditt ansvar å komme deg til en trygg plass.  
 
 ## AQ
+Torsdager  
 
 ## BWL
 Torsdager  
