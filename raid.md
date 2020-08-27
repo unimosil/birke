@@ -45,10 +45,10 @@ Dere må gi beskjed dersom dere må gå AFK i raid, det er ditt ansvar å komme 
 Torsdager  
 
 ## BWL
-Torsdager  
+Torsdager/Tirsdager  
 
 ## MC
-Torsdager  
+Torsdager/Tirsdager    
 
 ## ONY
 
